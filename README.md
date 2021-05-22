@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikMody&theme=dracula&hide=css,c%23" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RitikMody&show_icons=true&theme=dracula&count_private=true" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RitikMody&show_icons=true&theme=radical)
